@@ -1,0 +1,70 @@
+.product-deatil {
+  padding: 30px 30px 50px;
+}
+
+.product-deatil hr + .description-tabs {
+  padding: 0 0 5px !important;
+}
+.product-deatil .glyphicon {
+  color: #3276b1;
+}
+
+.product-deatil .product-image {
+  border-right: none !important;
+}
+/*product name*/
+.product-deatil .Productname {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.product-deatil .Productname small {
+  display: block;
+}
+
+.product-deatil .Productname a {
+  margin-left: 0;
+}
+.product-content Productname.a {
+  padding: 5px 10px;
+  margin-left: 16px;
+}
+
+/*end of product name*/
+.product-deatil .fa-2x {
+  font-size: 16px !important;
+}
+
+.product-deatil .fa-2x > h5 {
+  font-size: 12px;
+  margin: 0;
+}
+
+.product-deatil .fa-2x + a,
+.product-deatil .fa-2x + a + a {
+  font-size: 13px;
+}
+
+/* Purchase buttons*/
+
+.product-deatil .purchase {
+  margin-top: 10px;
+}
+
+.product-deatil .purchase ul {
+  padding-left: 0;
+}
+
+.product-deatil .purchase ul li:not(first-child) {
+  margin-left: -3px;
+}
+
+.product-deatil .purchase ul li {
+  display: inline-block;
+  padding: 13px 19px;
+}
+
+.description {
+  width: 700px;
+}
+/*End of purchase buttons*/

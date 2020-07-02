@@ -1,0 +1,98 @@
+#Header-navbar {
+    background-color: #007BFF;
+    color: #FFFFFF;
+    padding-bottom: 10px;
+}
+
+.row1{
+    padding-top: 10px;
+}
+
+.row2 {
+    padding-bottom: 20px;
+}
+.Header-navbar-search > div:nth-child(1){
+    margin-top: 5px;
+}
+.Header-navbar-input {
+    padding: 5px 12px;
+    border-radius: 2px 0px 0px 2px;
+    border: 0 none;
+    outline: 0 none;
+    width:50%;   
+}
+.row button {
+cursor: pointer;
+border-radius: 0px 2px 2px 0px;
+}
+
+#logo{
+    width:150px;
+}
+
+.smallnav{
+    display: block;
+}
+
+.smallsearch{
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.menu{
+    cursor: pointer;
+}
+#cart{
+    padding-top: 5px;
+
+}
+#shopping-cart{
+    width: 1.5rem;
+    cursor: pointer;
+    margin-right: 3px;
+}
+.Header-navbar-search{
+    margin-left:11%;
+}
+#cart-text{
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 1rem;
+}
+
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+    margin-right: 20px;
+    font-weight: bold;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    color: black;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  .login{
+      font-weight: bold;
+      cursor: pointer;
+  }
+  #angledown{
+    width: 0.7rem;
+    margin-left:2px;
+  }
+
+  .page-footer{
+      color:white;
+  }
+
+  
